@@ -20,15 +20,15 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <FeaturesHome />
+        {/* <FeaturesHome />
         <FeaturesBlocks />
         <Testimonials />
-        <Newsletter />
+        <Newsletter /> */}
 
       </main>
 
       {/*  Site footer */}
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
   );
